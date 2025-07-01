@@ -1,0 +1,7 @@
+{
+  "name": "bestchoise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
